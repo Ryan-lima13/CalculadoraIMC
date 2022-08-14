@@ -3,7 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/ryanl/AndroidStudioProjects/CalculadoradeIMC/app/src/main/res/drawable/ic_baseline_refresh_24.xml" value="0.1045" />
         <entry key="..\:/Users/ryanl/AndroidStudioProjects/CalculadoradeIMC/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/ryanl/AndroidStudioProjects/CalculadoradeIMC/app/src/main/res/menu/menu.xml" value="0.16666666666666666" />
       </map>
     </option>
   </component>

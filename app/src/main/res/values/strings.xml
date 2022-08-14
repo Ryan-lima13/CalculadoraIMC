@@ -5,4 +5,5 @@
     <string name="altura">Informe sua Altura (metro e cm)</string>
     <string name="calcular">Calcular IMC</string>
     <string name="resultado">Resultado</string>
+    <string name="limpar">Limpar dados</string>
 </resources>
